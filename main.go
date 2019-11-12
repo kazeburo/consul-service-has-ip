@@ -77,7 +77,7 @@ func main() {
 	}
 
 	if opts.Version {
-		fmt.Printf(`consul-service-include-jp %s
+		fmt.Printf(`consul-service-has-jp %s
 Compiler: %s %s
 `,
 			Version,
