@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/kazeburo/consul-service-include-ip/accesslog"
-	"github.com/kazeburo/consul-service-include-ip/consulclient"
+	"github.com/kazeburo/consul-service-has-ip/accesslog"
+	"github.com/kazeburo/consul-service-has-ip/consulclient"
 	"go.uber.org/zap"
 
 	flags "github.com/jessevdk/go-flags"

@@ -1,4 +1,4 @@
-module github.com/kazeburo/consul-service-include-ip
+module github.com/kazeburo/consul-service-has-ip
 
 go 1.13
 
